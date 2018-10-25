@@ -1,0 +1,91 @@
+Ex. 1
+Write a program to prompt user to input her/his name and print his name with Hello on the screen.
+e.g. Hello Urszula!
+
+Ex. 2
+Write a program to simulate chatting with user. Invent your sentences. 
+e.g.
+output: Hello. What is your name?
+input: Urszula.
+output: Hello Urszula. How are you?
+input: Thanks I'm fine.
+etc.
+
+Ex. 3
+Write a C++ program to generate initials of your name
+e.g.
+
+**  **  
+**  **
+******
+**  **
+**  **
+
+Ex. 4
+Write a C++ program that reads from user two numbers and calculates and prints results from various operations. Use all arithmetic operators.
+Hint. In some operations we get floating point variable therefore we must cast integer values to the same floating point type as result variable.
+e. g.
+	int z=3;
+	float result;
+	result = 2 / (float)z;
+
+Ex. 5
+Write a C++ program that reads from user 3 integer values and print these values in forward and reversed order.
+e.g.
+4
+2
+3
+
+3
+2
+4
+
+Ex. 6
+Write a program to prompt user to input a letter and print these letter on the screen with sentence:
+" You wrote a letter ..."
+e.g
+input: a
+output: You wrote a letter a
+
+
+Ex.7
+Write a program to prompt user to input temperature in Celcius scale and calculate it to Farenheit scale.
+
+Ex.8
+Write a program to prompt user to input temperature in Farenheit scale and calculate it to Farenheit scale Celcius scale.
+
+Ex.9
+Write a program that reads from user three numbers and calculates mean.
+
+Ex. 10
+Write a program that reads from user angle in degrees and converts it to radian.
+
+Ex. 11
+Write a program that reads from user angle in radian and converts it to degrees.
+
+Ex. 12
+Write a program to prompt user to input V as voltage, I as electric current and calculates the electrical resistance R with formula:
+R=V/I
+
+Ex. 13
+Write a program which converts currency. Chose currency and find exchange rate.
+
+Ex. 14
+Write a program to prompt user to input a value stored in variable a. Calculate ++a, a++, --a, a-- but before each calculation restore variable a to user's value.
+
+Ex. 15
+Write a program that reads from user two points in cartesian coordinates and finds midpoint between them.
+
+Ex. 16
+Write a program that calculates kinetic energy from rigid bodies. Use formula: Ek=(p^2)/2m where Ek is kinetic energy, p is momentum, m is mass of the body. Read variables from user.
+
+Ex. 17.
+Write a flowchart for boiling water for a tea.
+
+Ex. 18
+Write a flowchart for determination whether a temperature is below or above the freezing point (0 in Celcius scale, 32 in Farenhait scale).
+
+
+
+
+
