@@ -1,0 +1,94 @@
+Ex. 1
+Write a program which generates sequence of X. The number of X take from user.
+
+Ex. 2
+Write a program which generates sequence:
+3 6 9 12 , ...
+User types size of sequence.
+
+Ex. 3
+Write a program which types numbers divided by 5 in range from 1 to 100
+
+Ex. 4
+Write a program which generates pattern of O. Size of pattern take from user.
+input: 4
+output: 
+AAAA
+AAAA
+AAAA
+AAAA
+
+Ex. 5
+Write a program which generates pattern of O. Lines of pattern take from user.
+e.g.
+input: 4
+output:
+OOOO
+ OOO
+  OO
+   O
+
+Ex. 6
+Write a program which generates pattern of O. Size of  pattern take from user.
+e.g.
+input: 5
+output:
+VVVVV
+VVVV
+VVV
+VV
+V
+VV
+VVV
+VVVV
+VVVVV
+
+
+
+Ex. 7
+Write a program which generate table:
+1 2 3 4 
+2 3 4 5 
+3 4 5 6
+4 5 6 7
+
+
+Ex. 8 
+Write a program which generate upper triangular matrix:
+2 2 1
+0 3 2
+0 0 5
+
+Ex. 9 
+Write a program which generate lower triangular matrix:
+2 0 0
+3 2 0
+1 2 0
+
+Ex. 10
+Write a program which generate diagonal matrix:
+1 0 0
+0 2 0
+0 0 3
+
+Ex. 11
+Write a program which generate table:
+1 2 3 4
+2 1 2 3
+3 2 1 2
+4 3 2 1
+
+Ex. 12
+Write a program which generates pattern of O. Size of  pattern take from user.
+e.g.
+input: 5
+output:
+*
+**
+***
+****
+*****
+****
+***
+**
+*

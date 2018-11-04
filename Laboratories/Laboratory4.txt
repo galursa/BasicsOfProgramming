@@ -1,0 +1,38 @@
+Ex. 1
+Generate array of random numbers and write a loop that finds the minimum element in the array.
+
+Ex. 2
+Write the sequence into array
+5 10 15 20  ...
+
+Ex. 3
+Write a program to take from users single letters and put them to array. Print array.
+
+Ex. 4
+Write a pattern into array. Ask user how many times he want to put the pattern into array.
+-<*>-
+
+Ex. 5
+Generate array of random integer numbers. Range is 10. User desides the size of the array. Count how many 5 you have.
+
+Ex. 6
+Write a program to take from user floating point values and write them in array. Every element of array raise it to the 2nd power. Print output.
+
+
+Ex. 7
+Generate array of random numbers. Ask user for the size of the array. Count mean of all values from the array.
+
+Ex. 8
+Write a program to take from user floating point values and write them in array. Print only elements with index, which is an odd number.
+
+Ex. 9
+Generate array of random numbers. Write a program to copy into new array numbers greater than 10.
+
+Ex. 10
+Generate array with ASCII symbols.
+
+Ex. 11
+Write a program to take from user two words and check if they are equal. 
+
+Ex. 12
+Write a program to take from user word. Count occurrence of each letter in its word.
