@@ -1,0 +1,52 @@
+Ex. 1
+Write a program to generate two-dimentional array with random numbers and multiply all numbers by 3.
+Print intput and  output.
+
+Ex. 2
+Write a program to generate two-dimentional array with random numbers and count sin on all elements.
+Print intput and  output.
+
+Ex. 3
+Write a program to take from user numbers and put them into two-dimentional array.
+Print intput.
+
+Ex. 4
+Write a program to sum two matrices given by user. 
+Print intput and  output.
+
+Ex. 5
+Write a program to generate two-dimentional array with random numbers and find minimum element in every row.
+Print intput and output.
+
+Ex. 6
+Write a program to generate two-dimentional array with random numbers and find maximum element in the whole array.
+Print intput and  output.
+
+Ex. 7
+Write a program to compute the inverse matrix of the 2 x 2 square matrix A.
+Use the formula:
+   _    _                                   _       _
+   | a b|                           1       | d  -b |
+A= |	|	inverse of A =  --------- x |	    |					
+   | c d|                        ad  - bc   |-c   a |
+   -    -                                   -       - 
+
+Ex. 8
+Write a program to take two strings from user and check if they have the same first and last letters
+
+Ex. 9
+Write a program to take one string from user and to print the reverse string.
+
+Ex. 10
+Write a program to take four strings from user and to check which of them are the same. Print output.
+
+Ex. 11
+Write a program to generate a symmetrical matrix with numbers from 0 to 1. Take the size of matrix from user.
+Symmetrical matrix is matrix which look like reflection of the mirror put on diagonal of the matrix. Some example:
+1 2 0 1 2 0
+2 2 0 2 1 1
+0 0 2 0 1 0
+1 2 0 1 2 0
+2 1 2 2 1 0
+0 1 0 0 0 1
+
