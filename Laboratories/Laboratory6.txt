@@ -1,0 +1,38 @@
+Ex. 1
+Write a function to generate and print numbers: 3, 6, 9, ... 
+
+Ex. 2
+Write a function to check if number a is divideb by number b whithout rest.
+
+Ex. 3
+Write a void function to take dimention of square matrix from user and print matrix of random numbers with size taken from user.
+
+Ex. 4
+Write a function which returns middle value from three values.
+E.g. we have: 5, 3, 2 the middle value is 3 
+E.g. we have: 8, 1, 2 the middle value is 2 
+
+Ex. 5
+Write a function which passes two parameters: start, end. Start is starting value for loop and end is end value for loop.
+Function writes values from start to end.
+
+Ex. 6
+Write a function wich passes one parameter as emoticon and writes information about user feelings.
+E.g.
+input: howAreYou(':-)');
+output: You feel good.
+
+Ex. 7
+Write a functin which passes matrix as parameter. Function must check if it is square matrix or not and prints information about it.
+
+Ex. 8
+Write a function which passes matrix as parameter. Function must return transposed matrix.
+
+Ex. 9
+Write a function which takes angle as parameter and returns array of values: sin, cos, tg, ctg
+
+Ex. 10
+Write a function to print letters.
+
+Ex. 11
+Write a function which passes array as parameter and sort this array.
