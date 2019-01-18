@@ -1,0 +1,26 @@
+Ex. 1
+Add to header file calculator.h other mathematical expression. Write a program using this class.
+
+Ex. 2
+Make a header file with functions for manipulating array of numbers (reverse, sort etc.).
+Write a program that uses that header file.
+
+Ex. 3.
+Make a header file with function for manipulating string (reverse, capitalize letter etc.).
+Write a program that uses that header file.
+
+Ex. 4.
+Make a header file with function for manipulating input and output files (open, close, read, write). 
+Write a program that uses that header file.
+
+Ex. 5.
+Design a class for operations on single dimentional array. Write to header file. Write a program using the header file and class.
+
+Ex. 6. 
+Design a class for storing your shopping list. Use private keyword for fields of class. Write a program using the class.
+
+Ex. 7.
+Design a class for coffee machine. Use private and public keyword if neccessary. Write a program using the class.
+
+Ex. 8.
+Design a class for TV set. Use private and public keyword if neccessary. Write a program using the class.
