@@ -1,0 +1,32 @@
+Ex. 1
+Write a program to generate sequence: 4, 8, 12 ,... and write it to text file.
+
+Ex. 2
+Write a program to take matrix from user and write it to the text file.
+
+Ex. 3
+Write a program to generate random numbers and write it to the text file.
+
+Ex. 4
+Write a program to read from file sequence of numbers e.g. file from exercise 1.
+
+Ex. 5
+Write a program to read from file a matrix and print it.
+
+Ex. 6
+Choose a poem and save in text format file. Write a program to read that poem from the file and print it.
+
+Ex. 7
+Write a program to generate random characters and write them to the file.
+
+Ex. 8
+Write a program to read characters from a file.
+
+Ex. 9
+Write a program to take any filename from user and read and print its content.
+
+Ex. 10
+Write a program to write and read any text with numbers to the file.
+
+Ex. 11
+Write a program to generate sequence 3, 6, 9, ... and write to a file. Read that sequence from file.

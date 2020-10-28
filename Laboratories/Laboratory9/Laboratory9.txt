@@ -1,0 +1,48 @@
+Ex. 1
+Design a data structure to handle the information about student. Write a program that uses definded data structure.
+
+Ex. 2
+Design a union to store an angle. An angle can be put to union in radians or in degrees. Write two functions: 
+one converts radians to degrees 
+and other converts degrees to radians.
+Write a program that uses this union and functions.
+
+Ex. 3
+Use enum type to define months. Write a function which uses this enum type and translates names of months from english to your native language.
+Write a program to use this function.
+
+Ex. 4
+Design a bus schedule data structure that contains the following data:
+Number of bus,
+Name of busstop,
+Departure time,
+Write a program that lists all buses from a busstop specified by user.
+
+Ex. 5
+Design a union to store a colour. Union should have two fields: one for name of colour and one for integer number that indicates colour.
+Write a funtion to take number of colour as parameter and returns name of colour and a function to take name of colour as parameter and returns number of colour.
+Use your designed union.
+
+Ex. 6
+Use enum type do define list of directions on the map. Write a function that takes directions as parameters and print arrow which points to specified direction.
+e.g. Direction is east the function must print ->.
+
+Ex. 7
+Design a class to store information about student. Write two constructors and function which prints information.
+Instantiate objects and check how it works.
+
+Ex. 8
+Design a class to store information about plane figures such as: square, circle etc. 
+Write constructors and functions to count area, print side, radius, height etc. 
+Instantiate objects and check how it works.
+
+Ex. 9
+Design a class to store information about cellphone. 
+Write constructor and functions: one which prints information and one which simulates calling.
+Instantiate objects and check how it works.
+
+Ex. 10.
+Design a class to store information about book. 
+Write constructor and three functions, invent what these function can do.
+Instantiate objects and check how it works.
+
