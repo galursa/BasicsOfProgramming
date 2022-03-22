@@ -1,2 +1,2 @@
 # BasicsOfProgramming
-Exercises and programs for course in Basic Of Programimng for students of WSTI. 
+Exercises and programs in C++ for student course.
